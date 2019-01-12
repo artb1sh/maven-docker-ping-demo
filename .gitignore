@@ -1,0 +1,5 @@
+.DS_Store
+.Idea
+dependency-reduced-pom.xml
+target
+ping.iml

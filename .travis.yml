@@ -1,6 +1,6 @@
 language: java
 jdk:
-  - openjdk12
+  - oraclejdk8
 
 before_install:
   - ls

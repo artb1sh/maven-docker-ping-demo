@@ -9,7 +9,7 @@
   <url>http://www.bee42.com</url>
 
   <properties>
-    <tomcat.version>8.0.9</tomcat.version>
+    <tomcat.version>8.0.53</tomcat.version>
     <jolokia.version>1.2.2</jolokia.version>
     <jersey.version>2.11</jersey.version>
     <jackson.version>2.4.0</jackson.version>

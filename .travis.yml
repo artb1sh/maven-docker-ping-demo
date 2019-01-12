@@ -3,6 +3,6 @@ jdk:
  - openjdk11
   
 before_install:
-  - cd maven-docker-ping-demo
+  - ls
 script: mvn clean verify
 sudo: disable
